@@ -110,5 +110,5 @@ remember to use the line extract file to get the line image first
 We provide pre-trained checkpoints to help you get started quickly.
 | Model | Download Link |
 | :--- | :--- | 
-| **Synthetic** | [Download (Google Drive)]([#](https://drive.google.com/file/d/1meGSS89eqnwyaBvFpKXI_egs6KrEUw-z/view?usp=sharing)) |
+| **Synthetic** | [Download (Google Drive)](https://drive.google.com/file/d/1meGSS89eqnwyaBvFpKXI_egs6KrEUw-z/view?usp=sharing) |
 
