@@ -1,0 +1,13 @@
+torch
+torchaudio
+torchvision
+numpy
+pandas
+opencv-python-headless
+Pillow
+easyocr
+pyctcdecode
+nltk
+python-Levenshtein
+flashlight-text
+https://github.com/kpu/kenlm/archive/master.zip
